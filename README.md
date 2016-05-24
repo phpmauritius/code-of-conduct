@@ -1,2 +1,4 @@
-# code-of-conduct
-A set of rules &amp; regulations to abide while being a member of PHP Mauritius UG
+Mauritius PHP User Group Documents
+==================================
+
+Documents for governing the Mauritian PHP User Group @phpMauritiusUG | http://phpmauritiusug.com
